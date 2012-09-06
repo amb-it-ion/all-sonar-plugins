@@ -1,0 +1,39 @@
+[submodule "sonar-flex"]
+	path = sonar-flex
+	url = git://github.com/SonarCommunity/sonar-flex.git
+[submodule "sonar-groovy"]
+	path = sonar-groovy
+	url = git://github.com/SonarCommunity/sonar-groovy.git
+[submodule "sonar-javascript"]
+	path = sonar-javascript
+	url = git://github.com/SonarCommunity/sonar-javascript.git
+[submodule "sonar-python"]
+	path = sonar-python
+	url = git://github.com/SonarCommunity/sonar-python.git
+[submodule "sonar-runner"]
+	path = sonar-runner
+	url = git://github.com/SonarCommunity/sonar-runner.git
+[submodule "ant-task"]
+	path = ant-task
+	url = git://github.com/SonarCommunity/ant-task.git
+[submodule "sonar-openid"]
+	path = sonar-openid
+	url = git://github.com/SonarCommunity/sonar-openid.git
+[submodule "sonar-dotnet"]
+	path = sonar-dotnet
+	url = git://github.com/SonarCommunity/sonar-dotnet.git
+[submodule "sonar-ldap"]
+	path = sonar-ldap
+	url = git://github.com/SonarCommunity/sonar-ldap.git
+[submodule "sonar-php"]
+	path = sonar-php
+	url = git://github.com/SonarCommunity/sonar-php.git
+[submodule "sonar-cas"]
+	path = sonar-cas
+	url = git://github.com/SonarCommunity/sonar-cas.git
+[submodule "sonar-scm-activity"]
+	path = sonar-scm-activity
+	url = git://github.com/SonarCommunity/sonar-scm-activity.git
+[submodule "sonar-fortify"]
+	path = sonar-fortify
+	url = git://github.com/SonarCommunity/sonar-fortify.git
