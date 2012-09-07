@@ -37,3 +37,6 @@
 [submodule "sonar-fortify"]
 	path = sonar-fortify
 	url = git://github.com/SonarCommunity/sonar-fortify.git
+[submodule "sonar-scm-stats"]
+	path = sonar-scm-stats
+	url = git://github.com/SonarCommunity/sonar-scm-stats.git

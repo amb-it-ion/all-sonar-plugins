@@ -27,6 +27,7 @@
         <module>sonar-python</module>
         <module>sonar-runner</module>
         <module>sonar-scm-activity</module>
+        <module>sonar-scm-stats</module>
       </modules>
     </profile>
     <profile>
