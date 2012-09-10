@@ -13,9 +13,6 @@
 [submodule "sonar-runner"]
 	path = sonar-runner
 	url = git://github.com/SonarCommunity/sonar-runner.git
-[submodule "ant-task"]
-	path = ant-task
-	url = git://github.com/SonarCommunity/ant-task.git
 [submodule "sonar-openid"]
 	path = sonar-openid
 	url = git://github.com/SonarCommunity/sonar-openid.git
