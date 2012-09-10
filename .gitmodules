@@ -40,3 +40,6 @@
 [submodule "sonar-scm-stats"]
 	path = sonar-scm-stats
 	url = git://github.com/SonarCommunity/sonar-scm-stats.git
+[submodule "sonar-ant-task"]
+	path = sonar-ant-task
+	url = git://github.com/SonarCommunity/sonar-ant-task.git
