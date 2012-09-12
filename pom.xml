@@ -14,7 +14,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <modules>
-        <module>ant-task</module>
+        <module>sonar-ant-task</module>
         <module>sonar-cas</module>
         <module>sonar-dotnet</module>
         <module>sonar-flex</module>
