@@ -12,7 +12,7 @@
 	url = git://github.com/SonarCommunity/sonar-python.git
 [submodule "sonar-runner"]
 	path = sonar-runner
-	url = git://github.com/SonarRunner/sonar-runner.git
+	url = git://github.com/SonarSource/sonar-runner.git
 [submodule "sonar-openid"]
 	path = sonar-openid
 	url = git://github.com/SonarCommunity/sonar-openid.git
