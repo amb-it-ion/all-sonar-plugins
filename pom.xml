@@ -28,6 +28,7 @@
         <module>sonar-runner</module>
         <module>sonar-scm-activity</module>
         <module>sonar-scm-stats</module>
+        <module>sonar-maven-checks</module>
       </modules>
     </profile>
     <profile>

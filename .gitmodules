@@ -40,3 +40,6 @@
 [submodule "sonar-ant-task"]
 	path = sonar-ant-task
 	url = git://github.com/SonarSource/sonar-ant-task.git
+[submodule "sonar-maven-checks"]
+	path = sonar-maven-checks
+	url = git://github.com/SonarCommunity/sonar-maven-checks.git
