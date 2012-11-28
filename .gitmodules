@@ -43,3 +43,6 @@
 [submodule "sonar-maven-checks"]
 	path = sonar-maven-checks
 	url = git://github.com/SonarCommunity/sonar-maven-checks.git
+[submodule "sonar-erlang"]
+	path = sonar-erlang
+	url = git://github.com/SonarCommunity/sonar-erlang.git
