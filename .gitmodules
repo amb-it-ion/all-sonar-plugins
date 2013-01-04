@@ -46,3 +46,6 @@
 [submodule "sonar-erlang"]
 	path = sonar-erlang
 	url = git://github.com/SonarCommunity/sonar-erlang.git
+[submodule "sonar-redmine"]
+	path = sonar-redmine
+	url = git@github.com:SonarCommunity/sonar-redmine-plugin.git
