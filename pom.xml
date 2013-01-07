@@ -27,6 +27,7 @@
         <module>sonar-php</module>
         <module>sonar-python</module>
         <module>sonar-runner</module>
+        <module>sonar-redmine</module>
         <module>sonar-scm-activity</module>
         <module>sonar-scm-stats</module>
         <module>sonar-maven-checks</module>
