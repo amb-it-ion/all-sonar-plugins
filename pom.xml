@@ -30,7 +30,8 @@
         <module>sonar-redmine</module>
         <module>sonar-scm-activity</module>
         <module>sonar-scm-stats</module>
-        <module>sonar-scm-trac</module>
+        <module>sonar-trac</module>
+        <module>sonar-total-quality</module>
         <module>sonar-maven-checks</module>
       </modules>
     </profile>
