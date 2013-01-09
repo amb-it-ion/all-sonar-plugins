@@ -52,3 +52,6 @@
 [submodule "sonar-trac"]
 	path = sonar-trac
 	url = git://github.com/SonarCommunity/sonar-trac.git
+[submodule "sonar-total-quality"]
+	path = sonar-total-quality
+	url = git://github.com/SonarCommunity/sonar-total-quality.git
