@@ -48,10 +48,13 @@
 	url = git://github.com/SonarCommunity/sonar-erlang.git
 [submodule "sonar-redmine"]
 	path = sonar-redmine
-	url = git@github.com:SonarCommunity/sonar-redmine.git
+	url = https://github.com/SonarCommunity/sonar-redmine.git
 [submodule "sonar-trac"]
 	path = sonar-trac
 	url = git://github.com/SonarCommunity/sonar-trac.git
 [submodule "sonar-total-quality"]
 	path = sonar-total-quality
 	url = git://github.com/SonarCommunity/sonar-total-quality.git
+[submodule "sonar-cxx"]
+	path = sonar-cxx
+	url = https://github.com/SonarCommunity/sonar-cxx.git
