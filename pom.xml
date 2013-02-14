@@ -16,6 +16,7 @@
       <modules>
         <module>sonar-ant-task</module>
         <module>sonar-cas</module>
+        <module>sonar-cxx</module>
         <module>sonar-dotnet</module>
         <module>sonar-erlang</module>
         <module>sonar-flex</module>
