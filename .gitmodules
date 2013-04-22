@@ -61,3 +61,6 @@
 [submodule "sonar-build-stability"]
 	path = sonar-build-stability
 	url = git@github.com:SonarCommunity/sonar-build-stability.git
+[submodule "sonar-android"]
+	path = sonar-android
+	url = git://github.com/SonarCommunity/sonar-android.git

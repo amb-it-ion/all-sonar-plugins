@@ -15,6 +15,7 @@
       </activation>
       <modules>
         <module>sonar-ant-task</module>
+        <module>sonar-android</module>
         <module>sonar-cas</module>
         <module>sonar-cxx</module>
         <module>sonar-dotnet</module>
@@ -34,14 +35,6 @@
         <module>sonar-trac</module>
         <module>sonar-total-quality</module>
         <module>sonar-maven-checks</module>
-      </modules>
-    </profile>
-    <profile>
-      <id>stableProjects-jdk6</id>
-      <activation>
-        <activeByDefault>true</activeByDefault>
-      </activation>
-      <modules>
       </modules>
     </profile>
     <profile>
