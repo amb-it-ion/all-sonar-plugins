@@ -15,7 +15,7 @@
       </activation>
       <modules>
         <module>sonar-ant-task</module>
-        <module>sonar-android</module>
+<!--        <module>sonar-android</module> -->
         <module>sonar-cas</module>
         <module>sonar-cxx</module>
         <module>sonar-dotnet</module>
