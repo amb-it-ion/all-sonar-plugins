@@ -64,3 +64,6 @@
 [submodule "sonar-android"]
 	path = sonar-android
 	url = git://github.com/SonarCommunity/sonar-android.git
+[submodule "sonar-clirr"]
+	path = sonar-clirr
+	url = https://github.com/SonarCommunity/sonar-clirr.git

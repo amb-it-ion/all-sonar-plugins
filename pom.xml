@@ -18,6 +18,7 @@
 <!--        <module>sonar-android</module> -->
         <module>sonar-cas</module>
         <module>sonar-cxx</module>
+        <module>sonar-clirr</module>
         <module>sonar-dotnet</module>
         <module>sonar-erlang</module>
         <module>sonar-flex</module>
