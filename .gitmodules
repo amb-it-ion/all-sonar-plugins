@@ -67,3 +67,6 @@
 [submodule "sonar-clirr"]
 	path = sonar-clirr
 	url = https://github.com/SonarCommunity/sonar-clirr.git
+[submodule "sonar-dotnet-resharper"]
+	path = sonar-dotnet-resharper
+	url = git@github.com:SonarCommunity/sonar-dotnet-resharper.git
