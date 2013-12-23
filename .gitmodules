@@ -55,9 +55,6 @@
 [submodule "sonar-total-quality"]
 	path = sonar-total-quality
 	url = git://github.com/SonarCommunity/sonar-total-quality.git
-[submodule "sonar-cxx"]
-	path = sonar-cxx
-	url = https://github.com/SonarCommunity/sonar-cxx.git
 [submodule "sonar-build-stability"]
 	path = sonar-build-stability
 	url = git@github.com:SonarCommunity/sonar-build-stability.git
