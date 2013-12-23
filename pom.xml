@@ -17,7 +17,6 @@
         <module>sonar-ant-task</module>
         <module>sonar-android</module>
         <module>sonar-cas</module>
-        <module>sonar-cxx</module>
         <module>sonar-clirr</module>
         <module>sonar-dotnet</module>
         <module>sonar-dotnet-resharper</module>
