@@ -67,3 +67,6 @@
 [submodule "sonar-dotnet-resharper"]
 	path = sonar-dotnet-resharper
 	url = git@github.com:SonarCommunity/sonar-dotnet-resharper.git
+[submodule "sonar-pdf-report"]
+	path = sonar-pdf-report
+	url = git@github.com:SonarCommunity/sonar-pdf-report.git
