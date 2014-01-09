@@ -27,6 +27,7 @@
         <module>sonar-javascript</module>
         <module>sonar-ldap</module>
         <module>sonar-openid</module>
+        <module>sonar-pdf-report</module>
         <module>sonar-php</module>
         <module>sonar-python</module>
         <module>sonar-runner</module>
