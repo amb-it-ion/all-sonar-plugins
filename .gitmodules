@@ -70,3 +70,6 @@
 [submodule "sonar-pdf-report"]
 	path = sonar-pdf-report
 	url = git@github.com:SonarCommunity/sonar-pdf-report.git
+[submodule "sonar-update-center"]
+	path = sonar-update-center
+	url = git@github.com:SonarSource/sonar-update-center.git
