@@ -37,6 +37,7 @@
         <module>sonar-trac</module>
         <module>sonar-total-quality</module>
         <module>sonar-maven-checks</module>
+        <module>sonar-update-center</module>
       </modules>
     </profile>
     <profile>
