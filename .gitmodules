@@ -73,3 +73,6 @@
 [submodule "sonar-widget-lab"]
 	path = sonar-widget-lab
 	url = git@github.com:SonarCommunity/sonar-widget-lab.git
+[submodule "sonar-common-rules"]
+	path = sonar-common-rules
+	url = git@github.com:SonarSource/sonar-common-rules.git
