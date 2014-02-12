@@ -18,6 +18,7 @@
         <module>sonar-android</module>
         <module>sonar-cas</module>
         <module>sonar-clirr</module>
+        <module>sonar-common-rules</module>
         <module>sonar-dotnet</module>
         <module>sonar-dotnet-resharper</module>
         <module>sonar-erlang</module>
