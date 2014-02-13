@@ -19,6 +19,7 @@
         <module>sonar-cas</module>
         <module>sonar-clirr</module>
         <module>sonar-common-rules</module>
+        <module>sonar-cutoff</module>
         <module>sonar-dotnet</module>
         <module>sonar-dotnet-resharper</module>
         <module>sonar-erlang</module>
@@ -38,6 +39,7 @@
         <module>sonar-trac</module>
         <module>sonar-total-quality</module>
         <module>sonar-maven-checks</module>
+        <module>sonar-useless-code-tracker</module>
         <module>sonar-widget-lab</module>
       </modules>
     </profile>
