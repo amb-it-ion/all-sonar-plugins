@@ -16,9 +16,6 @@
 [submodule "sonar-openid"]
 	path = sonar-openid
 	url = git://github.com/SonarCommunity/sonar-openid.git
-[submodule "sonar-dotnet"]
-	path = sonar-dotnet
-	url = git://github.com/SonarCommunity/sonar-dotnet.git
 [submodule "sonar-ldap"]
 	path = sonar-ldap
 	url = git://github.com/SonarCommunity/sonar-ldap.git
@@ -82,3 +79,6 @@
 [submodule "sonar-cutoff"]
 	path = sonar-cutoff
 	url = https://github.com/SonarCommunity/sonar-cutoff.git
+[submodule "sonar-csharp"]
+	path = sonar-csharp
+	url = git@github.com:SonarCommunity/sonar-csharp.git
