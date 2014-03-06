@@ -20,7 +20,6 @@
         <module>sonar-clirr</module>
         <module>sonar-common-rules</module>
         <module>sonar-cutoff</module>
-        <module>sonar-dotnet</module>
         <module>sonar-dotnet-resharper</module>
         <module>sonar-erlang</module>
         <module>sonar-flex</module>
