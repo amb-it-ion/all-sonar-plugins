@@ -26,6 +26,7 @@
         <module>sonar-flex</module>
         <module>sonar-fortify</module>
         <module>sonar-groovy</module>
+        <module>sonar-issue-assign</module>
         <module>sonar-javascript</module>
         <module>sonar-ldap</module>
         <module>sonar-openid</module>
