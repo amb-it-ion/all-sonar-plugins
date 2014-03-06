@@ -82,3 +82,6 @@
 [submodule "sonar-csharp"]
 	path = sonar-csharp
 	url = git@github.com:SonarCommunity/sonar-csharp.git
+[submodule "sonar-issue-assign"]
+	path = sonar-issue-assign
+	url = https://github.com/SonarCommunity/sonar-issue-assign.git
